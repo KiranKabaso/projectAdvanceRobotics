@@ -1,3 +1,4 @@
+#the other file is the first and beter version.
 from sympy import symbols, solve, nsolve
 from scipy.spatial.transform import Rotation as Rotation_lib #I want a simple way to get a random rotation matrix
 
